@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rdapps.fbbirthdayfetcher.debug",
+    "sha256_cert_fingerprints":
+    ["3D:15:DC:8C:66:EC:99:3A:37:4B:8B:88:67:A0:01:52:F1:D8:F2:8D:38:7E:25:48:0C:EE:7A:A2:5A:50:D3:E3"]
+  }
+}]
